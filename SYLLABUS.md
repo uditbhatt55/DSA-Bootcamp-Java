@@ -125,6 +125,8 @@
     - [Linked List + Recursion](https://youtu.be/70tx7KcMROc)
 - [Stacks & Queues](https://www.youtube.com/watch?v=rHQI4mrJ3cg)
     - Introduction
+    - architecture
+    - monotonic stack
     - Push efficient
     - Pop efficient
     - Queue using Stack and vice versa
